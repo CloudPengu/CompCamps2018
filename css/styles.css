@@ -1,0 +1,30 @@
+body {
+  ima
+}
+
+main {
+  color:#BF36FF;
+  background-color: black;
+}
+
+footer {
+  color: #BF36FF;
+  background-colour: black;
+}
+
+.nav-item {
+  color: black;
+}
+
+.nav-link {
+  color: white;
+}
+
+a:hover {
+  color: #BF36FF;
+  background-color: black;
+}
+
+.modal {
+  color: black
+}
